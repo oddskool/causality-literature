@@ -18,8 +18,11 @@
 
 
 ## Invariance 
-- **Invariant Risk Minimization** [arxiv](https://arxiv.org/abs/1907.02893) - causality as invariance
+- **Invariant Risk Minimization** [arxiv](https://arxiv.org/abs/1907.02893) [iclr oral](https://youtube.videoken.com/embed/8UxS4ls6g1g?tocitem=2) - causality as invariance
 - **Out-of-Distribution Generalization via Risk Extrapolation** [causalrlws](https://causalrlworkshop.github.io/pdf/CLDM_11.pdf) 
+- **An Empirical Study of Invariant Risk Minimization** [arxiv](https://arxiv.org/abs/2004.05007) [github](https://github.com/kakaobrain/irm-empirical-study) - extended ColoredMNIST + text benchmark
+- **Improving out-of-distribution generalization via multi-task self-supervised pretraining** [arxiv](https://arxiv.org/abs/2003.13525)
+- **Invariant Causal Prediction for Block MDPs** [arxiv](https://arxiv.org/abs/2003.06016)
 
 ## Counterfactuals
 
