@@ -11,3 +11,16 @@
 
 - **Retrace** [nips](http://papers.nips.cc/paper/6538-safe-and-efficient-off-policy-reinforcement-learning.pdf) - Safe and efficient off-policy reinforcement learning
 - **DQN replay benchmark** [arxiv](https://arxiv.org/pdf/1907.04543v3.pdf) - An Optimistic Perspective on Offline Reinforcement Learning
+- **Off-policy RL impedded by bootstrapping error** [arxiv](https://arxiv.org/abs/1906.00949) [blog](https://bair.berkeley.edu/blog/2019/12/05/bear/) [slides](https://sites.google.com/view/bear-off-policyrl) - Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction
+- **Off-policy RL Benchmark** [arxiv](https://arxiv.org/abs/2004.07219) - a set of benchmark tasks and datasets that evaluate offline RL algorithms
+- **Continuous Adaptive Blending for Policy Evaluation and Learning** [mlr](http://proceedings.mlr.press/v97/su19a/su19a.pdf) - better than DM/IPS/DR
+- **Off-policy evaluation under confounding** [arxiv](https://arxiv.org/abs/2003.05623) - 
+
+
+## Invariance 
+- **Invariant Risk Minimization** [arxiv](https://arxiv.org/abs/1907.02893) - causality as invariance
+- **Out-of-Distribution Generalization via Risk Extrapolation** [causalrlws](https://causalrlworkshop.github.io/pdf/CLDM_11.pdf) 
+
+## Counterfactuals
+
+- **From counterfactual to intervention** [arxiv](https://arxiv.org/abs/2002.06278v2) - Algorithmic Recourse: from Counterfactual Explanations to Interventions
